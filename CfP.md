@@ -34,8 +34,8 @@ By submitting, you agree to adhere to the FOSDEM Code of Conduct and have your t
 ## Get in Touch
 
 If you have questions about the track, want to discuss your idea for a talk, or just want to say hello, please reach out to us:
-- **Giorgio:** me [at] grg.pw
-- **Gianluca:** gianluca.varisco [at] gmail.com
+- **Giorgio Bonfiglio:** me [at] grg.pw
+- **Gianluca Varisco:** gianluca.varisco [at] gmail.com
 
 We can’t wait to read your submissions and learn how you keep the lights on - and the pagers quiet!
 
